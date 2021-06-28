@@ -12,8 +12,8 @@ Note that this is just a demo and not a feature-complete reusable React componen
 Ensure you have Node.js 14.3.0 or later installed, then:
 
 ```bash
-$ git clone git@github.com:chrisn/peaks-react-example.git
-$ cd peaks-react-example
+$ git clone git@github.com:OguzhanOnay/react-audiowaveform-visualizer.git
+$ cd react-audiowaveform-visualizer
 $ npm install
 $ npm start
 ```
